@@ -4,7 +4,7 @@ Esse projeto foi feito com Angular CLI version 14.1.0. e com o auxilio do curso 
 
 ## Iniciar o Servidor
 
-Insira 'ng s -o' para abrir a aplicação na web
+Execute 'ng s -o' para abrir a aplicação na web
 
 ## Iniciar a API REST
 
